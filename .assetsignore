@@ -1,4 +1,4 @@
-*
-!index.html
-!privacy.html
-!support.html
+.*
+README.md
+CNAME
+wrangler.jsonc
